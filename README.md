@@ -6,7 +6,6 @@ React · React Native · Angular · Node.js · TypeScript
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natanael-santos2/) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/NatanaelSantos2)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:natanaelsantoss2br@gmail.com)
-![Visits](https://komarev.com/ghpvc/?username=seu-usuario&color=blue)
 
 ---
 
